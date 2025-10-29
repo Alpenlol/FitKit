@@ -8,8 +8,8 @@ console.debug = () => {} ;
 /*
  * CURT TODO - moar product IDs
  */ 
+const CUSTOM_PRODUCT_ID = 3499; // CHANGE ME FOR A GOOD TIEM
 const CUSTOM_MANUFACTURER_ID = "garmin"
-const CUSTOM_PRODUCT_ID = 3499; // Garmin Legacy Darth Vader
 const NEW_PRODUCT_NAME = "GarminFenix69X";
 
 /* 
